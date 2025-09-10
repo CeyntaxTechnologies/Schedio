@@ -1,5 +1,10 @@
 # Schedio – Smarter Way to Listen  
 
+
+This repository is used for distributing releases of **Schedio audio player**.  
+Download the latest version from the [Releases page](https://github.com/CeyntaxTechnologies/Schedio/releases).  
+The source code is private.
+
 Enjoy your music with powerful features that go beyond a regular audio player.  
 Schedio is an **intelligent media player** built to make your listening experience **smarter, effortless, and interactive**.  
 
