@@ -10,7 +10,6 @@ Schedio is an **intelligent media player** built to make your listening experien
 
 With Schedio, you can **schedule songs, control volume with proximity detection, auto-play on human presence, and more** — all while keeping the simplicity of a music player.  
 
----
 
 ##  Features  
 
